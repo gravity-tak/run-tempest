@@ -12,5 +12,7 @@ ChangeLog
 .results
 dist
 build
+devstack
 _results
 _local
+_output
